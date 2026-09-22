@@ -1,0 +1,27 @@
+Michael Vance - Senior DevOps & Cloud Infrastructure Engineer
+Email: michael.vance@example.com | Phone: +1-555-0177 | Location: Denver, CO
+
+SUMMARY:
+DevOps and Cloud Engineer with 5 years of experience automating infrastructure, cloud operations,
+and container platforms across AWS. Proficient in Python scripting, Docker, Kubernetes, and CI/CD.
+
+TECHNICAL SKILLS:
+- Cloud Platforms: AWS (EC2, S3, EKS, RDS, CloudWatch), GCP
+- Containers & Orchestration: Docker, Kubernetes (K8s), Helm
+- Automation & Scripting: Python, Bash, Terraform, Ansible
+- CI/CD & Tools: Git, GitHub Actions, Jenkins, Linux
+- Soft Skills: Troubleshooting, Problem Solving, Cross-functional Teamwork
+
+EXPERIENCE:
+Senior Cloud Engineer | CloudScale Networks (2021 - Present | 3 years)
+- Managed Kubernetes clusters on AWS supporting high-traffic microservices.
+- Wrote Python automation scripts and Terraform modules for automated cloud provisioning.
+- Implemented robust CI/CD deployment pipelines reducing release cycles by 60%.
+
+Infrastructure Engineer | DataPeak Inc. (2019 - 2021 | 2 years)
+- Administered Linux server fleet, Docker containers, and automated backup workflows.
+- Developed Python monitoring scripts for health checks and alert telemetry.
+
+EDUCATION & CERTIFICATIONS:
+- B.S. in Computer Information Systems - Colorado State University
+- AWS Certified DevOps Engineer - Professional

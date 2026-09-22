@@ -1,0 +1,24 @@
+Jordan Miller - Junior Software Developer
+Email: jordan.miller@example.com | Phone: +1-555-0188 | Location: Chicago, IL
+
+SUMMARY:
+Recent Computer Science graduate with 1 year of professional internship and junior developer experience.
+Enthusiastic about backend web development, clean code, and fast learning.
+
+CORE SKILLS:
+- Technical Skills: Python, Flask, SQLite, HTML5, CSS3, JavaScript, REST API
+- Tools: Git, GitHub, VS Code, Linux
+- Soft Skills: Communication, Curiosity, Problem Solving, Teamwork
+- Languages: English
+
+WORK EXPERIENCE:
+Junior Backend Developer | CloudSpark (2023 - Present | 1 year of experience)
+- Developed lightweight web services and internal endpoints using Python and Flask.
+- Designed database schemas and queries using SQLite and SQLAlchemy.
+- Participated in daily standups, code reviews, and Git feature branching.
+
+Software Development Intern | TechVentures (2022 - 2023 | 6 months)
+- Assisted backend engineering team with bug fixes, test scripts, and API documentation.
+
+EDUCATION:
+B.S. in Computer Science - University of Illinois (2023)
